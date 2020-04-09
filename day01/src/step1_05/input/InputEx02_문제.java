@@ -22,6 +22,7 @@ public class InputEx02_문제 {
 		int val = scan.nextInt();
 		System.out.println(val%2 == 1);
 		
+		//
 		//문제3) 성적을 입력받아 60점 이상이고 100점 이하이면 true 출력
 		System.out.println("성적을 입력하세요.");
 		int score = scan.nextInt();
