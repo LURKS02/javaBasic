@@ -39,6 +39,7 @@ public class ArrayEx11_¹®Á¦ {
 				check[num] = 1;
 			}
 		}
+		
 		for (int i = 0; i < 5; i++)
 			System.out.println(arr[i] + " ");
 	}
