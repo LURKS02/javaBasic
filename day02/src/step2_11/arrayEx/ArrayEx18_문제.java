@@ -2,14 +2,7 @@ package step2_11.arrayEx;
 
 import java.util.Scanner;
 
-/*
- * 미니마블
- * p1과 p2
- * 번갈아가며 1~3 사이의 숫자를 입력해 이동
- * 이동하다가 같은 위치에 놓이게 되면 상대 플레이어는 잡히게 되어 원점으로 되돌아간다.
- * 먼저 3바퀴를 돌면 이긴다.
- * 
- */
+//미니마블
 
 public class ArrayEx18_문제 {
 
