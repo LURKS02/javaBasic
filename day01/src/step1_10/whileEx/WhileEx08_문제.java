@@ -2,9 +2,6 @@ package step1_10.whileEx;
 import java.util.Scanner;
 
 //ATM - 2단계
-//로그인 후 재 로그인 불가
-//로그아웃 상태에서만 이용 가능
-//로그아웃은 로그인 상태에서만 이용 가능
 
 public class WhileEx08_문제 {
 

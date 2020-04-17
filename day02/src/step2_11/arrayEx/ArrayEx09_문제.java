@@ -3,10 +3,6 @@ package step2_11.arrayEx;
 import java.util.Scanner;
 
 //영화관 좌석예매
-//사용자로부터 좌석 index를 입력받아 예매
-//예매된 좌석 값은 1, 재구매 불가
-//한 좌석의 예매 가격은 12000
-//영화관의 총 매출액 출력
 
 public class ArrayEx09_문제 {
 

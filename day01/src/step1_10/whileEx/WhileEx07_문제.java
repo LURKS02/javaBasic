@@ -3,11 +3,6 @@ import java.util.Random;
 import java.util.Scanner;
 
 //up down 게임 - 2단계
-/*
- * 정답을 맞추면 게임 종료
- * 100점부터 시작해 오답일 때마다 5점 차감
- * 게임 종료 후 점수를 출력
- */
 
 public class WhileEx07_문제 {
 

@@ -3,12 +3,6 @@ package step1_08.ifEx;
 import java.util.Random;
 
 //369게임 - 1단계
-//1~50 사이의 랜덤 숫자를 저장
-//위 수에 369의 개수가
-//2개이면 짝짝을 출력
-//1개이면 짝을 출력
-//0개이면 해당 숫자를 출력
-
 
 public class IfEx17_문제 {
 

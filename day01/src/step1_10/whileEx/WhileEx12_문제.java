@@ -1,11 +1,6 @@
 package step1_10.whileEx;
 
 //369게임 - 2단계
-/*
- * 1~50까지 반복한다.
- * 그 안에서 해당 숫자의 369게임 결과를 반환
- * 
- */
 
 public class WhileEx12_문제 {
 

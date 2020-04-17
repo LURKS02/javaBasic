@@ -3,8 +3,6 @@ package step1_08.ifEx;
 import java.util.Scanner;
 
 //ATM - 1단계
-//이체할 계좌번호를 입력
-//계좌번호가 일치하면 금액을 입력
 
 public class IfEx15_문제 {
 

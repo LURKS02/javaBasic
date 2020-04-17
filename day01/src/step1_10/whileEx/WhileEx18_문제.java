@@ -3,11 +3,6 @@ import java.util.Scanner;
 import java.util.Random;
 
 //택시 서비스
-//-10 ~ 10 사이의 랜덤 숫자 2개를 저장해 목적지로 설정
-//속도: 1~3까지 설정
-//방향 : 동1서2남3북4
-//이동 : 설정 방향으로 설정된 속도만큼 이동
-//거리 2칸 당 50원씩 추가되어 요금 출력
 
 public class WhileEx18_문제 {
 

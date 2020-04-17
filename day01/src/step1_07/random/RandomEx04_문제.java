@@ -3,9 +3,6 @@ import java.util.Random;
 import java.util.Scanner;
 
 //홀짝 게임
-//1 ~ 100 사이의 랜덤 숫자를 저장
-// 저장된 랜덤 숫자를 보여주고
-// 홀수인지 짝수인지 맞추는 게임 
 
 public class RandomEx04_문제 {
 

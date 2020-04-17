@@ -3,10 +3,6 @@ package step2_11.arrayEx;
 import java.util.Random;
 
 //OMR카드
-//배열의 answer는 정답지이다.
-//배열 hgd에 1~5 사이의 랜덤 숫자 5개를 저장한다.
-//정답을 비교하여 정오표와 성적을 출력한다.
-//한 문제당 20점
 
 public class ArrayEx08_문제 {
 

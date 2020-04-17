@@ -3,10 +3,6 @@ package step1_10.whileEx;
 import java.util.Scanner;
 
 //최대값 구하기 - 2단계
-/*
- * 3회 반복하면서 정수를 입력
- * 입력받은 3개의 숫자 중 가장 큰 값 출력
- */
 
 public class WhileEx14_문제 {
 

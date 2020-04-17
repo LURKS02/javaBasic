@@ -4,10 +4,6 @@ import java.util.Scanner;
 import java.util.Random;
 
 //가위바위보 게임 - 2단계
-//com은 0~2 사이의 랜덤 숫자를 저장한다.
-//me는 0~2 사이의 숫자를 입력받는다.
-//com과 me를 비교해 결과를 출력한다.
-//가위 = 0 / 바위 = 1 / 보 = 2
 
 public class RandomEx06_문제 {
 

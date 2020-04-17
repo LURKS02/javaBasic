@@ -2,12 +2,6 @@ package step1_06.ifEx;
 
 import java.util.Scanner;
 
-//com 은 8이다.
-// me 는 com 의 숫자를 맞춘다.
-// me < com : Up!
-// me == com : Bingo!
-// me > com : Down!
-
 public class IfEx02_문제 {
 
 	public static void main(String[] args) {

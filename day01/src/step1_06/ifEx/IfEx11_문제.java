@@ -3,11 +3,6 @@ package step1_06.ifEx;
 import java.util.Scanner;
 
 //영수증 출력 - 1단계
-//메뉴판 출력
-//주문하고자 하는 메뉴의 번호를 입력
-//현금을 입력
-//입력받은 현금과 메뉴 가격을 확인해 영수증 출력
-//현금이 부족한 경우 메세지를 출력한다.
 
 public class IfEx11_문제 {
 

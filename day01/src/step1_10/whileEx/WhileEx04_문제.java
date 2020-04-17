@@ -3,9 +3,6 @@ import java.util.Scanner;
 import java.util.Random;
 
 //구구단 게임 - 3단계
-//구구단 게임을 5회 반복한다.
-//정답을 맞추면 20점이다.
-//게임 종료 후 성적을 출력한다.
 
 public class WhileEx04_문제 {
 

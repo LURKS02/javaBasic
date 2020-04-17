@@ -13,9 +13,6 @@ public class ArrayEx12_문제 {
 		int[] arr = {10, 20, 30, 40, 50};
 		
 		// 문제 1) 인덱스 2개를 입력받아 값 교체
-		// 예    1) 인덱스1 : 1
-		//		   인덱스2 : 3
-		//		  {10, 40, 30, 20, 50}
 		
 		int num1 = scan.nextInt();
 		int num2 = scan.nextInt();
@@ -28,9 +25,6 @@ public class ArrayEx12_문제 {
 		System.out.println();
 
 		// 문제 2) 값 2개를 입력받아 값 교체
-		// 		   값1 : 40
-		//        값2 : 20
-		//		  {10, 20, 30, 40, 50}
 		
 		int num3 = scan.nextInt();
 		int num4 = scan.nextInt();
@@ -52,9 +46,6 @@ public class ArrayEx12_문제 {
 		int[] scores  = {  87,   11,   45,   98,   23};
 		
 		// 문제 3) 학번 2개를 입력받아 성적 교체
-		// 예    3) 학번1 : 1002
-		//        학번2 : 1003
-		//		 {87, 45, 11, 98, 23}
 		
 		int num7 = scan.nextInt();
 		int num8 = scan.nextInt();

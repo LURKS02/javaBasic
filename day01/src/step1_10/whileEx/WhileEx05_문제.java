@@ -3,12 +3,6 @@ package step1_10.whileEx;
 import java.util.Scanner;
 
 //영수증 출력 - 2단계
-/*
- * 총 5번 주문을 받는다.
- * 주문 후 돈을 입력받는다.
- * 각 메뉴별 수량과 금액을 확인한다.
- * 
- */
 
 public class WhileEx05_문제 {
 

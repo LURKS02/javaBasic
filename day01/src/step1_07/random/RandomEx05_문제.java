@@ -4,9 +4,6 @@ import java.util.Random;
 
 
 //구구단 게임 - 2단계
-//숫자 두개를 랜덤 저장
-//저장된 숫자로 구구단 문제 출제
-//문제에 해당하는 정답을 입력하여 비교
 
 
 public class RandomEx05_문제 {

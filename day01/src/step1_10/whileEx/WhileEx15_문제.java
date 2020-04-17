@@ -4,16 +4,6 @@ import java.util.Random;
 import java.util.Scanner;
 
 //랜덤 학생
-/*
- * 10회 반복
- * 1~100 사이의 랜덤 숫자를 저장 (학생의 성적)
- * 성적이 60점 이상이면 합격
- * 
- * 전교생 (10명) 의 총점 / 평균을 출력
- * 합격자 수 출력
- * 1등 학생의 번호와 성적을 출력
- * 
- */
 
 public class WhileEx15_문제 {
 

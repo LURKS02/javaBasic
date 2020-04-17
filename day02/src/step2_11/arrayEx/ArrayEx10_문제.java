@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 /*
  * # 즉석복권
- * 1. 숫자 7이 연속으로 3번 등장하면 당첨복권
- * 2. 아래 3종류의 복권의 당첨여부를 출력
  */
 
 public class ArrayEx10_문제 {

@@ -3,11 +3,6 @@ import java.util.Scanner;
 import java.util.Random;
 
 //연산자 기호 맞추기 게임
-//1~10 사이 랜덤 숫자 2개를 저장
-//1~4 사이 랜덤 숫자 1개를 저장
-//연산자 기호 1.덧셈 2.뺄셈 3.곱셈 4.나머지
-//사용한 연산자 기호를 맞추는 게임
-
 
 public class IfEx19_문제 {
 

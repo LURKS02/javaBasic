@@ -3,14 +3,6 @@ package step1_10.whileEx;
 import java.util.Scanner;
 
 //atm - 2단계
-/* 
- * 1.로그인
- * 로그인 후 재로그인 불가
- * 로그아웃  상태에서만 사용가능 
- * 
- * 2.로그아웃 / 3.입금 / 4.출금 / 5.이체 / 6.조회 / 7.종료
- * 로그인 후 이용가능
- */
 
 public class WhileEx10_문제 {
 

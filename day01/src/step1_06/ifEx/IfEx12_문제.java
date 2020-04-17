@@ -3,8 +3,6 @@ package step1_06.ifEx;
 import java.util.Scanner;
 
 //최대값 구하기 - 1단계
-//숫자 3개를 입력받는다.
-//입력받은 3개 수를 비교하여 가장 큰 수를 출력한다.
 
 
 public class IfEx12_문제 {
