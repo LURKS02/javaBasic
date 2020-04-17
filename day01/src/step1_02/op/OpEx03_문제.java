@@ -4,7 +4,7 @@ public class OpEx03_문제 {
 
 	public static void main(String[] args) {
 		
-		//ex) 현금이 1000원 있을 때, 200원짜리 과자 구입 후 잔돈 출력
+		//ex) 현금이 1000원 있을 때, 200원짜리 구입 후 잔돈
 		System.out.println("잔돈 = " + (1000 - 200) + "원");
 		
 		//문제1) 월급이 100원일때, 연봉은? (세금 10%)

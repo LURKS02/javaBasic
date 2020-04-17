@@ -4,7 +4,7 @@ public class VarEx02_문제 {
 
 	public static void main(String[] args) {
 		
-		//ex) 현금이 1000원 있을 때, 200원짜리 과자 구입 후 잔돈 출력
+		//ex) 현금이 1000원 있을 때, 200원짜리 구입 후 잔돈 출력
 		int cash = 1000;
 		int snack = 200;
 		int change = cash - snack;

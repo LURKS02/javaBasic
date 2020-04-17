@@ -9,9 +9,9 @@ public class PrintEx01 {
 		
 		//출력문 자동완성 : sysout + ctrl + space
 		System.out.println("===========");
-		System.out.println("스타벅스");
-		System.out.println("현금");
-		System.out.println("카페라떼");
+		System.out.println("1번 내용");
+		System.out.println("2번 내용");
+		System.out.println("3번 내용");
 
 	}
 
