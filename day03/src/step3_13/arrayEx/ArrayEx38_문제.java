@@ -35,6 +35,5 @@ public class ArrayEx38_¹®Á¦ {
 			System.out.print(column[j] + " ");
 		}
 	}
-	//test
 }
 
