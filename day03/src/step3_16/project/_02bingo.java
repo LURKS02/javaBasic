@@ -1,6 +1,7 @@
 package step3_16.project;
 
 //빙고 (플레이어 1명)
+//
 
 import java.util.Scanner;
 import java.util.Random;
