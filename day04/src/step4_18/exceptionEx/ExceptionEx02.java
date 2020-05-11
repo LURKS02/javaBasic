@@ -31,7 +31,5 @@ public class ExceptionEx02 {
 		}finally {
 			System.out.println("예외 발생과 관계 없이 무조건 실행할 문장");
 		}
-
 	}
-
 }
