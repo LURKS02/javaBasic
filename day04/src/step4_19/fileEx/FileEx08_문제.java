@@ -151,8 +151,7 @@ public class FileEx08_문제 {
 					}
 				}
 			}
-			
-			
+
 			else if(sel == 0) {
 				System.out.println("프로그램 종료");
 				break;
