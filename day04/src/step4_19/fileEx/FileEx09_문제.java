@@ -15,12 +15,10 @@ public class FileEx09_¹®Á¦ {
 		
 		int[] x = new int[4];
 		int[] y = new int[4];
-		int[] snake = new int[4];
 		
 		for(int i = 0; i < 4; i++) {
 			x[i] = i;
 			map[y[i]][x[i]] = i + 1;
-			snake[i] = map[y[i]][x[i]];
 		}
 		
 		while(true) {
