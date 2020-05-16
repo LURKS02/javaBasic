@@ -31,7 +31,5 @@ public class ClassEx01 {
 		e.y = 20;
 		
 		System.out.println(e);
-
 	}
-
 }
