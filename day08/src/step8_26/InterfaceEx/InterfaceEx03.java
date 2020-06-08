@@ -98,7 +98,5 @@ public class InterfaceEx03 {
 		DropShip dropship = new DropShip();
 		
 		scv.repair(dropship);
-
 	}
-
 }
